@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  Cloud Specialist focused on creating scalable and efficient cloud solutions. With experience in AWS, GCP, and Docker, my goal is to optimize infrastructure to ensure applications run smoothly. Always eager to learn and share knowledge, I'm here to contribute to projects that truly make a difference.
+Hi! I'm Gabriel Flores, a passionate developer from Brazil who loves working in DevOps and backend development. As a Cloud Specialist, I focus on creating scalable and efficient cloud solutions. With experience in AWS, GCP, and Docker, I aim to optimize infrastructure to ensure that applications run smoothly and efficiently.
+
+I’m always eager to learn and share knowledge, and I'm excited to contribute to projects that truly make a difference. Let’s connect and make something great together!
 </p>
 
 ## 🔩 DevOps

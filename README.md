@@ -55,4 +55,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 👋 It's a pleasure to meet you!
+
+I would love to connect with you! If you have any great ideas or just want to chat, feel free to reach out. You can send me a message on [LinkedIn](https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/) or [drop me an email](mailto:gabrielalmeidaflores@hotmail.com). I'm always open to engaging conversations and exploring new opportunities. Let’s collaborate and share our thoughts!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" />

@@ -46,3 +46,11 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=Popos&logoColor=white" />
 </p>
+
+## 📈 Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
+</picture>

@@ -19,16 +19,30 @@
   Cloud Specialist focused on creating scalable and efficient cloud solutions. With experience in AWS, GCP, and Docker, my goal is to optimize infrastructure to ensure applications run smoothly. Always eager to learn and share knowledge, I'm here to contribute to projects that truly make a difference.
 </p>
 
-## 🛠️ Main Technologies 
-
-I am proficient in TypeScript and JavaScript, which I use to develop dynamic web applications. Additionally, I work with MySQL to manage databases, ensuring data integrity and performance. Together, these technologies form the backbone of my development process, enabling me to deliver high-quality software solutions.
+## 🔩 DevOps
 
 <p>
   <img src="https://img.shields.io/badge/-Aws-f9992e?style=for-the-badge&logo=Amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gcp-029be5?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-red?style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub_Actions&logoColor=white" />
+</p>
+
+## 🚀 Languages 
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white" />
+</p>
+
+## 💻 Workspace
+
+<p>
+  <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=Fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=Popos&logoColor=white" />
 </p>

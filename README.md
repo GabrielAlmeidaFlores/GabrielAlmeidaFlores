@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Gabriel Almeida Flores</h1>
+<h1 align="center">João Gabriel Almeida Flores</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/">

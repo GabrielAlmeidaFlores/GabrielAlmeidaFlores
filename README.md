@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Gcp-029be5?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-red?style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub_Actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ## 🚀 Languages 

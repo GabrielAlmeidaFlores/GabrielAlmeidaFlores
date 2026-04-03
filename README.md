@@ -1,62 +1,99 @@
 <div align="center">
-  <a href="https://www.gabriel-flores.dev/">
-    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='100'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi!%20My%20name%20is%20Gabriel&fontSize=50" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="mailto:gabrielalmeidaflores@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<h1 align="center">João Gabriel Almeida Flores</h1>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/">
-    <img src="https://img.shields.io/badge/-flores-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
-  </a>
-  <a href="mailto:gabrielalmeidaflores@hotmail.com">
-    <img src="https://img.shields.io/badge/email-blue?logo=protonmail&logoColor=white" alt="Proton Mail" />
-  </a>
-</p>
+### 👨‍💻 Tech Lead | Software Architect | Cloud & DevOps Specialist
 
-<p align="center">
-  Hi! I'm Gabriel Flores, a passionate developer from Brazil who loves working in DevOps and backend development. As a Cloud Specialist, I focus on creating scalable and efficient cloud solutions. With experience in AWS, GCP, and Docker, I aim to optimize infrastructure to ensure that applications run smoothly and efficiently. I’m always eager to learn and share knowledge, and I'm excited to contribute to projects that truly make a difference. Let’s connect and make something great together!
-</p>
+As a **Tech Lead**, I bridge the gap between complex business requirements and high-performance technical execution. I specialize in designing scalable **Multi-tenant architectures** and governing **Cloud Infrastructure** to ensure system resilience, security, and global availability.
 
-## 🔩 DevOps
+---
 
+### 🏗️ Strategic Expertise
+
+#### **Software Architecture & Full Stack**
+* **Architecture:** Design of high-scale **Multi-tenant** systems using **Node.js (NestJS)** and **TypeScript**.
+* **Performance:** Advanced database modeling (**PostgreSQL, SQL Server, MySQL**) with a focus on integrity and query optimization.
+* **Scalability:** Implementation of distributed caching strategies with **Redis** and high-concurrency handling via **Nginx**.
+
+#### **Cloud, Infrastructure & DevOps**
+* **Cloud Governance:** Design and deployment of **Cloud-Native** environments on **AWS and Azure**.
+* **Automation:** Orchestration of isolated environments using **Docker** and robust **CI/CD** pipelines via **GitHub Actions**.
+* **Systems Engineering:** Expert-level **Linux Administration**, focusing on security protocols, active monitoring, and VPN tunneling.
+
+#### **Leadership & Technical Governance**
+* **Team Management:** Leading multidisciplinary squads, fostering a culture of **Clean Code (SOLID)** and mentoring developers through continuous growth (IDP).
+* **Observability:** Implementation of advanced monitoring and failure prevention strategies to ensure 99.9% uptime.
+* **Integration:** Management of complex **REST/GraphQL** integrations with secure authentication and API versioning standards.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+#### **Backend Development**
 <p>
-  <img src="https://img.shields.io/badge/-Aws-f9992e?style=for-the-badge&logo=Amazon&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gcp-029be5?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-red?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+#### **Cloud Computing (PaaS/IaaS)**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+#### **DevOps & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-## 🚀 Languages 
-
+#### **Database & Caching**
 <p>
-  <img src="https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 💻 Workspace
-
+#### **OS & Workspace**
 <p>
-  <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=Fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=Popos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-## 📈 Stats
+---
 
+### 🐍 Contribution History
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 👋 It's a pleasure to meet you!
+---
 
-I would love to connect with you! If you have any great ideas or just want to chat, feel free to reach out. You can send me a message on [LinkedIn](https://www.linkedin.com/in/gabriel-de-almeida-flores-5aba77256/) or [drop me an email](mailto:gabrielalmeidaflores@hotmail.com). I'm always open to engaging conversations and exploring new opportunities. Let’s collaborate and share our thoughts!
+### 🤝 Strategic Collaboration
+I am focused on architectural excellence and building high-performance engineering teams. For inquiries regarding leadership, cloud strategy, or complex backend development, let's connect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" />
+</div>

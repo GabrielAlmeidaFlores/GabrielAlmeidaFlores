@@ -38,5 +38,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          author: Gabriel Flores <gabrielalmeidaflores@hotmail.com>
+          committer: Gabriel Flores <gabrielalmeidaflores@hotmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}

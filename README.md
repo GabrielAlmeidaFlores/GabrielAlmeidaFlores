@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=58A6FF&section=header&reversal=true&textBg=false" alt="Waving banner" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=180&lines=Hi,+My+name+is+Gabriel;I+build+systems+that+scale;I+ship+cloud+architectures;I+lead+teams+that+deliver;Also%3A+I+love+terminals+%26+coffee" alt="Typing animation" />
@@ -12,7 +14,7 @@
 
 ### ✨ About me
 
-**Tech Lead · Software Architect · Cloud & DevOps**
+**FullStack Developer · Software Architect · Cloud & DevOps**
 
 I turn complex ideas into reliable software — from APIs and multi-tenant backends  
 to cloud infrastructure, Docker, CI/CD, and a dash of AI.
@@ -137,5 +139,5 @@ If you want to talk architecture, cloud, backend, open source — or just share 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=58A6FF&section=footer&reversal=true&textBg=false" alt="Waving banner" />
 </div>

@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Gabriel%20Flores&fontSize=42&fontAlignY=35&desc=Tech%20Lead%20%7C%20Arquitetura%20%7C%20Cloud%20%26%20DevOps&descSize=16&descAlignY=55" alt="Gabriel Flores" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi!%20My%20name%20is%20Gabriel&fontSize=50" alt="Hi! My name is Gabriel" />
 </div>
 
 <div align="center">
 
-**João Gabriel Almeida Flores** · Sorocaba, SP · Brasil
+**João Gabriel Almeida Flores** · Sorocaba, SP · Brazil
 
-Tech Lead na [Ousion](https://www.linkedin.com/company/epiousion-it) · construo plataformas multi-tenant, cloud-native e times que entregam com qualidade.
+Tech Lead at [Ousion](https://www.linkedin.com/company/epiousion-it) — I build multi-tenant platforms, cloud-native systems, and engineering teams that ship with quality.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-flores/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalmeidaflores@hotmail.com)
@@ -16,70 +16,70 @@ Tech Lead na [Ousion](https://www.linkedin.com/company/epiousion-it) · construo
 
 ---
 
-## Quem eu sou
+## Who I am
 
-Sou **Tech Lead e Arquiteto de Software**. Na prática: defino arquitetura, coloco sistemas em produção na nuvem e ajudo o time a crescer — do código ao deploy.
+I am a **Tech Lead and Software Architect**. In practice: I define architecture, ship systems to the cloud, and help the team grow — from code to production.
 
-Atuo principalmente com **TypeScript / NestJS**, **C# / .NET**, **AWS & Azure**, **Docker** e **CI/CD**. Já passei por projetos de tecnologia e fintechs, sempre com foco em escalabilidade, segurança e entrega contínua.
+I work mainly with **TypeScript / NestJS**, **C# / .NET**, **Java**, **AWS & Azure**, **Docker**, and **CI/CD**. I have delivered projects for technology companies and fintechs, always focused on scalability, security, and continuous delivery.
 
-> Em uma frase: transformo requisitos de negócio em plataformas estáveis, observáveis e fáceis de evoluir.
+> In one line: I turn business requirements into stable, observable platforms that are easy to evolve.
 
 ---
 
-## O que faço no dia a dia
+## What I do day to day
 
-| Frente | Como isso aparece no trabalho |
+| Area | How it shows up in my work |
 |---|---|
-| **Arquitetura** | Sistemas **multi-tenant**, APIs REST/GraphQL, modelagem de dados e decisões de trade-off |
-| **Backend** | NestJS / TypeScript e .NET — APIs versionadas, autenticação, testes e padrões limpos |
-| **Cloud & DevOps** | AWS/Azure, Docker, GitHub Actions, Linux, VPN e ambientes isolados |
-| **Performance** | PostgreSQL / SQL Server / MySQL, cache com Redis, Nginx |
-| **Liderança** | Mentoria, code review, definição de padrões e organização de entregas |
+| **Architecture** | **Multi-tenant** systems, REST/GraphQL APIs, data modeling, and trade-off decisions |
+| **Backend** | NestJS / TypeScript, .NET, and **Java** — versioned APIs, auth, tests, and clean patterns |
+| **Cloud & DevOps** | AWS / Azure, Docker, GitHub Actions, Linux, VPN, and isolated environments |
+| **Performance** | PostgreSQL / SQL Server / MySQL, Redis caching, Nginx |
+| **Leadership** | Mentoring, code review, technical standards, and delivery organization |
 
 ---
 
-## Experiência
+## Experience
 
 ### Tech Lead — [Ousion Soluções em Tecnologia](https://www.linkedin.com/company/epiousion-it)
-**Abril 2024 — atual** · Sorocaba, SP
+**April 2024 — Present** · Sorocaba, SP
 
-Lidero arquitetura e evolução de produtos escaláveis. Responsável por decisões técnicas, automação de infraestrutura e desenvolvimento do time.
+I lead architecture and product evolution for scalable systems. Responsible for technical decisions, infrastructure automation, and team development.
 
-- Arquitetura cloud-native em **AWS** e **Azure**
-- Aplicações **multi-tenant** em **TypeScript / NestJS** (isolamento de dados + escala)
-- Pipelines **CI/CD** com GitHub Actions, Docker e deploys automatizados
-- Modelagem relacional (SQL Server, PostgreSQL, MySQL), Redis e Nginx
-- Observabilidade, hardening de Linux e VPN corporativa
-- Mentoria, code review e padrões de engenharia (Clean Code / SOLID)
+- Cloud-native architecture on **AWS** and **Azure**
+- **Multi-tenant** applications in **TypeScript / NestJS** (data isolation + scale)
+- **CI/CD** pipelines with GitHub Actions, Docker, and automated deploys
+- Relational modeling (SQL Server, PostgreSQL, MySQL), Redis, and Nginx
+- Observability, Linux hardening, and corporate VPN
+- Mentoring, code review, and engineering standards (Clean Code / SOLID)
 
-### Desenvolvedor Full Stack Pleno — Epiousion / Ousion
-**Janeiro 2024 — Abril 2024**
+### Mid-level Full Stack Developer — Epiousion / Ousion
+**January 2024 — April 2024**
 
-- Multi-tenant com **C# / .NET**, APIs REST e integrações
-- SQL Server / PostgreSQL e interfaces com AngularJS
-- Refatoração de legado, performance e rituais Scrum
+- Multi-tenant apps with **C# / .NET**, REST APIs, and third-party integrations
+- SQL Server / PostgreSQL and AngularJS interfaces
+- Legacy refactoring, performance work, and Scrum rituals
 
-### Desenvolvedor Full Stack Júnior — Epiousion
-**Novembro 2023 — Janeiro 2024**
+### Junior Full Stack Developer — Epiousion
+**November 2023 — January 2024**
 
-- Features em C# / .NET, APIs REST e UI com AngularJS
-- Consultas e modelagem em SQL Server / PostgreSQL
-- Manutenção evolutiva em squads ágeis
+- Features in C# / .NET, REST APIs, and AngularJS UI
+- Queries and modeling on SQL Server / PostgreSQL
+- Evolutionary maintenance in agile squads
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que é | Links |
+| Project | What it is | Links |
 |---|---|---|
-| **[Syntonia](https://github.com/GabrielAlmeidaFlores/Syntonia)** | Motor de aprendizado com IA: artigos sob demanda a partir do seu perfil (serverless AWS + Gemini + React) | [Demo](https://prod.d1ypuzce9lcl0c.amplifyapp.com) |
-| **[HTTP-CLI](https://github.com/GabrielAlmeidaFlores/HTTP-CLI)** | Cliente HTTP no terminal (TUI em Go) — Postman para quem vive no teclado | [Releases](https://github.com/GabrielAlmeidaFlores/HTTP-CLI/releases) |
-| **[Database Migration Manager](https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager)** | Migração interativa MySQL / PostgreSQL / SQL Server via Docker + TUI | Repo |
-| **[Docker Observability Stack](https://github.com/GabrielAlmeidaFlores/Docker-Observability-Stack)** | Stack de observabilidade pronta para ambientes containerizados | Repo |
-| **Pulse** | SaaS de saúde ocupacional (pesquisas anônimas, alertas, LGPD / PGR) | [Site](https://pulseips.com.br/) |
+| **[Syntonia](https://github.com/GabrielAlmeidaFlores/Syntonia)** | AI learning engine: on-demand deep articles from your profile (serverless AWS + Gemini + React) | [Demo](https://prod.d1ypuzce9lcl0c.amplifyapp.com) |
+| **[HTTP-CLI](https://github.com/GabrielAlmeidaFlores/HTTP-CLI)** | Terminal-native HTTP client (Go TUI) — Postman for keyboard-driven workflows | [Releases](https://github.com/GabrielAlmeidaFlores/HTTP-CLI/releases) |
+| **[Database Migration Manager](https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager)** | Interactive MySQL / PostgreSQL / SQL Server migration via Docker + TUI | Repo |
+| **[Docker Observability Stack](https://github.com/GabrielAlmeidaFlores/Docker-Observability-Stack)** | Ready-to-run observability stack for containerized environments | Repo |
+| **Pulse** | Occupational health SaaS (anonymous surveys, alerts, LGPD / PGR) | [Site](https://pulseips.com.br/) |
 
 <details>
-<summary>Prévia do HTTP-CLI</summary>
+<summary>HTTP-CLI preview</summary>
 
 <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/HTTP-CLI/http-cli.gif" alt="HTTP-CLI demo" width="720" />
 
@@ -87,14 +87,14 @@ Lidero arquitetura e evolução de produtos escaláveis. Responsável por decis�
 
 ---
 
-## Formação
+## Education
 
-- **Pós-graduação** — Arquitetura de Software, Cybersecurity e Ciência de Dados · [PUCPR](https://www.pucpr.br/) · 2025–2026
-- **CST** — Análise e Desenvolvimento de Sistemas · [UNISO](https://www.uniso.br/) · 2022–2025
+- **Postgraduate degree** — Software Architecture, Cybersecurity, and Data Science · [PUCPR](https://www.pucpr.br/) · 2025–2026
+- **Technology degree (CST)** — Systems Analysis and Development · [UNISO](https://www.uniso.br/) · 2022–2025
 
-## Certificações
+## Certifications
 
-| Certificação | Ano | Credencial |
+| Certification | Year | Credential |
 |---|---|---|
 | AWS Certified Developer — Associate | 2025 | [Credly](https://www.credly.com/badges/94c4b4b0-3f04-4dc4-83b8-cac2f784a78f) |
 | AWS Certified Solutions Architect — Associate | 2023 | [Credly](https://www.credly.com/badges/b2565837-fde8-43d5-828b-ff847bcf28b8) |
@@ -110,6 +110,7 @@ Lidero arquitetura e evolução de produtos escaláveis. Responsável por decis�
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -126,7 +127,7 @@ Lidero arquitetura e evolução de produtos escaláveis. Responsável por decis�
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Dados**  
+**Data**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -135,7 +136,7 @@ Lidero arquitetura e evolução de produtos escaláveis. Responsável por decis�
 
 ---
 
-## Contribuições
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake-dark.svg">
@@ -145,13 +146,13 @@ Lidero arquitetura e evolução de produtos escaláveis. Responsável por decis�
 
 ---
 
-## Vamos conversar?
+## Let's talk
 
-Aberto a conversas sobre **liderança técnica**, **arquitetura cloud**, **backend** e projetos open source.
+Open to conversations about **technical leadership**, **cloud architecture**, **backend engineering**, and open-source work.
 
 - LinkedIn: [joao-gabriel-flores](https://www.linkedin.com/in/joao-gabriel-flores/)
-- E-mail: [gabrielalmeidaflores@hotmail.com](mailto:gabrielalmeidaflores@hotmail.com)
+- Email: [gabrielalmeidaflores@hotmail.com](mailto:gabrielalmeidaflores@hotmail.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" alt="" />
 </div>

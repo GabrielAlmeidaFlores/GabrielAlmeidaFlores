@@ -3,155 +3,155 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/joao-gabriel-flores/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielalmeidaflores@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/GabrielAlmeidaFlores">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-**João Gabriel Almeida Flores** · Sorocaba, SP · Brazil
+<br />
 
-Tech Lead at [Ousion](https://www.linkedin.com/company/epiousion-it) — I build multi-tenant platforms, cloud-native systems, and engineering teams that ship with quality.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=90&lines=I+build+systems+that+scale;I+ship+cloud+architectures;I+lead+teams+that+deliver;Also%3A+I+love+terminals+%26+coffee" alt="Typing animation" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-flores/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalmeidaflores@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAlmeidaFlores)
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/GabrielAlmeidaFlores/banner-gabriel.png" alt="Gabriel banner" width="90%" />
+</div>
+
+---
+
+<div align="center">
+
+### ✨ About me
+
+**Tech Lead · Software Architect · Cloud & DevOps**
+
+I turn complex ideas into reliable software — from APIs and multi-tenant backends  
+to cloud infrastructure, Docker, CI/CD, and a dash of AI.
+
+I write code in **TypeScript**, **Java**, **C# / .NET**, and **Go**.  
+I live happily in Linux terminals, and I care about clean architecture, observability, and shipping things that actually work.
 
 </div>
 
 ---
 
-## Who I am
+<div align="center">
 
-I am a **Tech Lead and Software Architect**. In practice: I define architecture, ship systems to the cloud, and help the team grow — from code to production.
+### 🛠️ Tools of the trade
 
-I work mainly with **TypeScript / NestJS**, **C# / .NET**, **Java**, **AWS & Azure**, **Docker**, and **CI/CD**. I have delivered projects for technology companies and fintechs, always focused on scalability, security, and continuous delivery.
+<br />
 
-> In one line: I turn business requirements into stable, observable platforms that are easy to evolve.
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,java,cs,dotnet,go,react,nextjs,aws,azure,gcp,docker,linux,postgres,mysql,redis,nginx,githubactions,bash&perline=10" alt="Skill icons" />
 
----
+<br /><br />
 
-## What I do day to day
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAlmeidaFlores&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF" alt="GitHub streak" />
 
-| Area | How it shows up in my work |
-|---|---|
-| **Architecture** | **Multi-tenant** systems, REST/GraphQL APIs, data modeling, and trade-off decisions |
-| **Backend** | NestJS / TypeScript, .NET, and **Java** — versioned APIs, auth, tests, and clean patterns |
-| **Cloud & DevOps** | AWS / Azure, Docker, GitHub Actions, Linux, VPN, and isolated environments |
-| **Performance** | PostgreSQL / SQL Server / MySQL, Redis caching, Nginx |
-| **Leadership** | Mentoring, code review, technical standards, and delivery organization |
+</div>
 
 ---
 
-## Experience
+<div align="center">
 
-### Tech Lead — [Ousion Soluções em Tecnologia](https://www.linkedin.com/company/epiousion-it)
-**April 2024 — Present** · Sorocaba, SP
+### 🚀 Things I have built
 
-I lead architecture and product evolution for scalable systems. Responsible for technical decisions, infrastructure automation, and team development.
+</div>
 
-- Cloud-native architecture on **AWS** and **Azure**
-- **Multi-tenant** applications in **TypeScript / NestJS** (data isolation + scale)
-- **CI/CD** pipelines with GitHub Actions, Docker, and automated deploys
-- Relational modeling (SQL Server, PostgreSQL, MySQL), Redis, and Nginx
-- Observability, Linux hardening, and corporate VPN
-- Mentoring, code review, and engineering standards (Clean Code / SOLID)
+<br />
 
-### Mid-level Full Stack Developer — Epiousion / Ousion
-**January 2024 — April 2024**
-
-- Multi-tenant apps with **C# / .NET**, REST APIs, and third-party integrations
-- SQL Server / PostgreSQL and AngularJS interfaces
-- Legacy refactoring, performance work, and Scrum rituals
-
-### Junior Full Stack Developer — Epiousion
-**November 2023 — January 2024**
-
-- Features in C# / .NET, REST APIs, and AngularJS UI
-- Queries and modeling on SQL Server / PostgreSQL
-- Evolutionary maintenance in agile squads
-
----
-
-## Featured projects
-
-| Project | What it is | Links |
-|---|---|---|
-| **[Syntonia](https://github.com/GabrielAlmeidaFlores/Syntonia)** | AI learning engine: on-demand deep articles from your profile (serverless AWS + Gemini + React) | [Demo](https://prod.d1ypuzce9lcl0c.amplifyapp.com) |
-| **[HTTP-CLI](https://github.com/GabrielAlmeidaFlores/HTTP-CLI)** | Terminal-native HTTP client (Go TUI) — Postman for keyboard-driven workflows | [Releases](https://github.com/GabrielAlmeidaFlores/HTTP-CLI/releases) |
-| **[Database Migration Manager](https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager)** | Interactive MySQL / PostgreSQL / SQL Server migration via Docker + TUI | Repo |
-| **[Docker Observability Stack](https://github.com/GabrielAlmeidaFlores/Docker-Observability-Stack)** | Ready-to-run observability stack for containerized environments | Repo |
-| **Pulse** | Occupational health SaaS (anonymous surveys, alerts, LGPD / PGR) | [Site](https://pulseips.com.br/) |
-
-<details>
-<summary>HTTP-CLI preview</summary>
-
-<img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/HTTP-CLI/http-cli.gif" alt="HTTP-CLI demo" width="720" />
-
-</details>
-
----
-
-## Education
-
-- **Postgraduate degree** — Software Architecture, Cybersecurity, and Data Science · [PUCPR](https://www.pucpr.br/) · 2025–2026
-- **Technology degree (CST)** — Systems Analysis and Development · [UNISO](https://www.uniso.br/) · 2022–2025
-
-## Certifications
-
-| Certification | Year | Credential |
-|---|---|---|
-| AWS Certified Developer — Associate | 2025 | [Credly](https://www.credly.com/badges/94c4b4b0-3f04-4dc4-83b8-cac2f784a78f) |
-| AWS Certified Solutions Architect — Associate | 2023 | [Credly](https://www.credly.com/badges/b2565837-fde8-43d5-828b-ff847bcf28b8) |
-| AWS Certified Cloud Practitioner | 2023 | [Credly](https://www.credly.com/badges/5029a8a9-59f6-4be2-8a13-371b1f4a907f) |
-| Google Cloud Digital Leader | 2024 | [Credly](https://www.credly.com/badges/0f5f929f-002b-4dbe-900b-d535645d3408) |
-| LPI Linux Essentials | 2022 | — |
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
+        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/HTTP-CLI/http-cli.gif" alt="HTTP-CLI" width="100%" />
+      </a>
+      <br />
+      <h3><a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">HTTP-CLI</a></h3>
+      <p>Postman, but it lives in your terminal ⚡<br />Go TUI · vim motions · curl & Postman import</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
+        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/Database-Migration-Manager/overview.gif" alt="Database Migration Manager" width="100%" />
+      </a>
+      <br />
+      <h3><a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">DB Migration Manager</a></h3>
+      <p>Move databases without the drama 🐳<br />MySQL · PostgreSQL · SQL Server · Docker TUI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <h3><a href="https://github.com/GabrielAlmeidaFlores/Syntonia">Syntonia</a></h3>
+      <p>Personal learning engine powered by AI 🧠<br />Serverless AWS · Gemini · React feed</p>
+      <a href="https://prod.d1ypuzce9lcl0c.amplifyapp.com">
+        <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge" alt="Live demo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <h3><a href="https://pulseips.com.br/">Pulse</a></h3>
+      <p>Occupational health SaaS 💚<br />Anonymous surveys · alerts · LGPD / PGR</p>
+      <a href="https://pulseips.com.br/">
+        <img src="https://img.shields.io/badge/Visit_Site-2EA44F?style=for-the-badge" alt="Visit site" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Stack
+<div align="center">
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### 🐍 Contribution playground
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Data**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
----
-
-## Contributions
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br /><br />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielAlmeidaFlores&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9" alt="Gabriel's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlmeidaFlores&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+
+</div>
 
 ---
 
-## Let's talk
+<div align="center">
 
-Open to conversations about **technical leadership**, **cloud architecture**, **backend engineering**, and open-source work.
+### 🎯 Currently vibing with
 
-- LinkedIn: [joao-gabriel-flores](https://www.linkedin.com/in/joao-gabriel-flores/)
-- Email: [gabrielalmeidaflores@hotmail.com](mailto:gabrielalmeidaflores@hotmail.com)
+`cloud architectures` · `multi-tenant backends` · `AI integrations` · `terminal tools` · `observability`
+
+<br />
+
+### 🤝 Let's connect
+
+If you want to talk architecture, cloud, backend, open source — or just share a cool terminal setup — say hi.
+
+<br />
+
+<a href="https://www.linkedin.com/in/joao-gabriel-flores/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gabrielalmeidaflores@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" alt="" />

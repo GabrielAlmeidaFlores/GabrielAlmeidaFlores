@@ -1,30 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi!%20My%20name%20is%20Gabriel&fontSize=50" alt="Hi! My name is Gabriel" />
-</div>
+
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-gabriel-flores/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielalmeidaflores@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/GabrielAlmeidaFlores">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=180&lines=Hi,+My+name+is+Gabriel;I+build+systems+that+scale;I+ship+cloud+architectures;I+lead+teams+that+deliver;Also%3A+I+love+terminals+%26+coffee" alt="Typing animation" />
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=90&lines=I+build+systems+that+scale;I+ship+cloud+architectures;I+lead+teams+that+deliver;Also%3A+I+love+terminals+%26+coffee" alt="Typing animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/GabrielAlmeidaFlores/banner-gabriel.png" alt="Gabriel banner" width="90%" />
-</div>
 
 ---
 
@@ -143,14 +123,17 @@ I live happily in Linux terminals, and I care about clean architecture, observab
 If you want to talk architecture, cloud, backend, open source — or just share a cool terminal setup — say hi.
 
 <br />
-
-<a href="https://www.linkedin.com/in/joao-gabriel-flores/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gabrielalmeidaflores@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-gabriel-flores/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielalmeidaflores@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/GabrielAlmeidaFlores">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 </div>
 
 <div align="center">

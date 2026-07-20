@@ -91,9 +91,6 @@ I live happily in Linux terminals, and I care about clean architecture, observab
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
-        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/Database-Migration-Manager/overview.gif" alt="Database Migration Manager" width="100%" />
-      </a>
       <br />
       <h3><a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">DB Migration Manager</a></h3>
       <p>Move databases without the drama<br />MySQL · PostgreSQL · SQL Server · Docker TUI</p>

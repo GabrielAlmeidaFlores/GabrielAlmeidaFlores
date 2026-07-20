@@ -54,56 +54,42 @@ I live happily in Linux terminals, and I care about clean architecture, observab
 
 </div>
 
-<style>
-  table.projects {
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-  }
-
-  table.projects td {
-    width: 50%;
-    vertical-align: top;
-    text-align: center;
-    padding: 1.75rem 1rem;
-    border: 1px solid #2f3542;
-  }
-</style>
-
-<table class="projects">
-  <tr>
-    <td>
-      <h3><a href="https://pulseips.com.br/">Pulse</a></h3>
-      <p>Occupational health SaaS<br />Anonymous surveys · alerts · LGPD / PGR</p>
-      <a href="https://pulseips.com.br/">
-        <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://xcheck.com.br/">XCheck</a></h3>
-      <p>Hair toxicology testing with privacy by design<br />PHP · MySQL · Docker · Azure</p>
-      <a href="https://xcheck.com.br/">
-        <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">HTTP-CLI</a></h3>
-      <p>Postman, but it lives in your terminal<br />Go TUI · vim motions · curl & Postman import</p>
-      <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
-        <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">DB Migration Manager</a></h3>
-      <p>Move databases without the drama<br />MySQL · PostgreSQL · SQL Server · Docker TUI</p>
-      <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
-        <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table class="projects">
+    <tr>
+      <td>
+        <h3><a href="https://pulseips.com.br/">Pulse</a></h3>
+        <p>Occupational health SaaS<br />Anonymous surveys · alerts · LGPD / PGR</p>
+        <a href="https://pulseips.com.br/">
+          <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
+        </a>
+      </td>
+      <td>
+        <h3><a href="https://xcheck.com.br/">XCheck</a></h3>
+        <p>Hair toxicology testing with privacy by design<br />PHP · MySQL · Docker · Azure</p>
+        <a href="https://xcheck.com.br/">
+          <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3><a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">HTTP-CLI</a></h3>
+        <p>Postman, but it lives in your terminal<br />Go TUI · vim motions · curl & Postman import</p>
+        <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
+          <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <h3><a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">DB Migration Manager</a></h3>
+        <p>Move databases without the drama<br />MySQL · PostgreSQL · SQL Server · Docker TUI</p>
+        <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
+          <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

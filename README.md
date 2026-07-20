@@ -24,8 +24,8 @@ I live happily in Linux terminals, and I care about clean architecture, observab
 
 <br />
 
-<a href="https://main.d341b9vn24mb6l.amplifyapp.com/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Visit Portfolio" />
+<a href="https://gabrielflores.kybers.com.br">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge" alt="Visit Portfolio" />
 </a>
 
 </div>
@@ -128,8 +128,8 @@ If you want to talk architecture, cloud, backend, open source — or just share 
 
 <br />
 <div align="center">
-  <a href="https://main.d341b9vn24mb6l.amplifyapp.com/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Visit Portfolio" />
+  <a href="https://gabrielflores.kybers.com.br">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge" alt="Visit Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/joao-gabriel-flores/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />

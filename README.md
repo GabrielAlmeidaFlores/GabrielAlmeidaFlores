@@ -22,6 +22,12 @@ to cloud infrastructure, Docker, CI/CD, and a dash of AI.
 I write code in **TypeScript**, **Java**, **C# / .NET**, and **Go**.  
 I live happily in Linux terminals, and I care about clean architecture, observability, and shipping things that actually work.
 
+<br />
+
+<a href="https://main.d341b9vn24mb6l.amplifyapp.com/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Visit Portfolio" />
+</a>
+
 </div>
 
 ---
@@ -76,15 +82,22 @@ I live happily in Linux terminals, and I care about clean architecture, observab
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <br />
-      <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
-        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/HTTP-CLI/http-cli.gif" alt="HTTP-CLI" width="70%" />
-      </a>
+    <td width="50%" align="center" valign="top">
       <br />
       <h3><a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">HTTP-CLI</a></h3>
       <p>Postman, but it lives in your terminal<br />Go TUI · vim motions · curl & Postman import</p>
       <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
+        <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
+        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/GabrielAlmeidaFlores/main/assets/Database-Migration-Manager/overview.gif" alt="Database Migration Manager" width="100%" />
+      </a>
+      <br />
+      <h3><a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">DB Migration Manager</a></h3>
+      <p>Move databases without the drama<br />MySQL · PostgreSQL · SQL Server · Docker TUI</p>
+      <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
         <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
@@ -128,6 +141,9 @@ If you want to talk architecture, cloud, backend, open source — or just share 
 
 <br />
 <div align="center">
+  <a href="https://main.d341b9vn24mb6l.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-2567A8?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Visit Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/joao-gabriel-flores/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>

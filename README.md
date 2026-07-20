@@ -56,29 +56,25 @@ I live happily in Linux terminals, and I care about clean architecture, observab
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://pulseips.com.br/">
-        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/My-Portfolio/gh-pages/images/projects/pulse.png" alt="Pulse" width="100%" />
-      </a>
       <br />
       <h3><a href="https://pulseips.com.br/">Pulse</a></h3>
       <p>Occupational health SaaS<br />Anonymous surveys · alerts · LGPD / PGR</p>
       <a href="https://pulseips.com.br/">
         <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
       </a>
+      <br /><br />
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://xcheck.com.br/">
-        <img src="https://raw.githubusercontent.com/GabrielAlmeidaFlores/My-Portfolio/gh-pages/images/projects/xcheck.png" alt="XCheck" width="100%" />
-      </a>
       <br />
       <h3><a href="https://xcheck.com.br/">XCheck</a></h3>
       <p>Hair toxicology testing with privacy by design<br />PHP · MySQL · Docker · Azure</p>
       <a href="https://xcheck.com.br/">
         <img src="https://img.shields.io/badge/Visit_Site-2567A8?style=for-the-badge" alt="Visit site" />
       </a>
+      <br /><br />
     </td>
   </tr>
   <tr>
@@ -89,6 +85,7 @@ I live happily in Linux terminals, and I care about clean architecture, observab
       <a href="https://github.com/GabrielAlmeidaFlores/HTTP-CLI">
         <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
+      <br /><br />
     </td>
     <td width="50%" align="center" valign="top">
       <br />
@@ -97,6 +94,7 @@ I live happily in Linux terminals, and I care about clean architecture, observab
       <a href="https://github.com/GabrielAlmeidaFlores/Database-Migration-Manager">
         <img src="https://img.shields.io/badge/GitHub-2567A8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
+      <br /><br />
     </td>
   </tr>
 </table>
